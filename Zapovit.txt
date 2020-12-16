@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 3.Sered stepu shirokoho
-=======
+
 Mene na mohyli
->>>>>>> b6471e1ed1e5aee62fc12c9d2b0702bec2f010ee
+
